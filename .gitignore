@@ -1,0 +1,17 @@
+# TRAE 系统辅助目录（不需要上传）
+.trae-html-share-packages/
+
+# 操作系统生成文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志与临时文件
+*.log
+*.tmp
